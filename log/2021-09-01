@@ -52,3 +52,38 @@ cookie文件加载成功
 
 
 
+2021-09-01 18:43:08.148554
+输入定位签到模式
+单人签到模式
+当前IP：40.77.17.236,
+
+ 美国艾奥瓦州得梅因Microsoft数据中心
+
+系统时间：2021-09-01 18:43:13
+UTC时间：2021-09-01 19:43:08
+北京时间：2021-09-02 02:43:08
+北京时间与系统时间误差：7:59:54.457781
+2021-09-01 18:43:13.542281:193057074签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾新福
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.196207，26.261453，江西省赣州市兴国县茶石村塘背组
+{"status":0,"result":{"location":{"lng":115.20766618722542,"lat":26.26463968471908},"formatted_address":"江西省赣州市兴国县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"兴国县","town":"","town_code":"","adcode":"360732","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%85%B4%E5%9B%BD%E5%8E%BF&street=%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%B4%E5%9B%BD%E5%8E%BF%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&bstreet=%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&lng=115.196221&lat=26.261542&sfby=1
+NAME曾新福
+定位 115.196221，26.261542，江西省赣州市兴国县茶石村塘背组
+{"status":0,"result":{"location":{"lng":115.20775406988646,"lat":26.264562528844168},"formatted_address":"江西省赣州市兴国县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"兴国县","town":"","town_code":"","adcode":"360732","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%85%B4%E5%9B%BD%E5%8E%BF&street=%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%B4%E5%9B%BD%E5%8E%BF%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&bstreet=%E8%8C%B6%E7%9F%B3%E6%9D%91%E5%A1%98%E8%83%8C%E7%BB%84&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&lng=115.196309&lat=26.261465&sfby=1
+签到成功
+2021-09-01 18:43:46.471052:193057074签到结束
+曾新福193057074签到成功！
+2021-09-01 18:43:46.471079程序结束
+######################################################################
+
+
+
+

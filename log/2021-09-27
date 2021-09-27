@@ -52,3 +52,35 @@ cookie文件加载成功
 
 
 
+2021-09-27 18:46:17.152358
+历史定位签到模式
+单人签到模式
+当前IP：168.61.155.34,
+
+ 美国
+
+系统时间：2021-09-27 18:46:39
+UTC时间：2021-09-27 19:46:38
+北京时间：2021-09-28 02:46:29
+北京时间与系统时间误差：7:59:49.732193
+2021-09-27 18:46:39.267866:193057074签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾新福
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME曾新福
+定位 116.017146，29.672917，江西省九江市
+{"status":0,"result":{"location":{"lng":116.02875681438441,"lat":29.676633456781727},"formatted_address":"江西省九江市濂溪区濂溪大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"濂溪区","town":"","town_code":"","adcode":"360402","street":"濂溪大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E6%BF%82%E6%BA%AA%E5%8C%BA&street=%E4%B9%9D%E6%B1%9F%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&bstreet=%E4%B9%9D%E6%B1%9F%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&lng=116.017148&lat=29.672915&sfby=1
+签到成功
+2021-09-27 18:47:06.639258:193057074签到结束
+曾新福193057074签到成功！
+2021-09-27 18:47:06.639287程序结束
+######################################################################
+
+
+
+
